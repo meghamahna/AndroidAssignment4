@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ass4</string>
+    <string-array name="meals">
+        <item>Menu</item>
+        <item>Burger</item>
+        <item>Pizza</item>
+        <item>Cake</item>
+    </string-array>
+
+    <string name="radio1">10%</string>
+    <string name="radio2">15%</string>
+    <string name="radio3">20%</string>
+</resources>
